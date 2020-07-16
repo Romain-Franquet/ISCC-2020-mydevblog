@@ -1,0 +1,100 @@
+
+header {
+	width: 100%;
+	text-align: left;
+	background: hsl(260, 60%, 30%);
+	margin-bottom: 1rem;
+}
+header h1 {
+	margin: 0;
+	padding: 1em;
+	font-size: 1.8em;
+	font-weight: normal;
+}
+footer {
+	margin-top: auto;
+}
+footer nav,
+header nav {
+	width: 100%;
+	display: flex;
+	flex-flow: row wrap;
+	align-items: stretch;
+	justify-content: space-around;
+	font-size: 0.9em;
+	padding: 0.25em 1em;
+	box-sizing: border-box;
+	background: black;
+}
+footer nav {
+	padding: 0 1em;
+	margin-top: 1rem;
+	font-size: 0.9em;
+}
+footer a,
+header a {
+	color: hsl(0, 0%, 94%);
+	border-bottom-color: transparent;
+}
+
+body {
+	font-family: sans-serif;
+	font-weight: normal;
+	font-size: 10pt;
+	line-height: 1.5em;
+	background-color: hsl(0, 0%, 93%);
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: stretch;
+	justify-content: flex-start;
+	min-height: 100vh;
+}
+
+article {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, 20em);
+	grid-gap: 1em;
+	grid-auto-rows: 20em;
+	grid-auto-flow: row dense;
+	justify-content: center;
+}
+/*pour l'alignement des carrés*/ 
+.tile-block {
+	display: block;
+	background: hsl(0, 0%, 98%);
+	padding: 0 1em;
+	overflow: hidden;
+	box-shadow: 0 0 1px 1px hsla(0, 0%, 70%, 0.4);
+	box-shadow: -1px -1px 2px 1px hsla(0, 0%, 50%, 0.7);
+}
+/*pour la création des carrés*/
+
+
+.tile-block h2 {
+	padding: 0.5em;
+	font-size: 1.3em;
+	font-weight: bold;
+	margin: 0 0 0.5em;
+	padding-bottom: 0.5em;
+	border-bottom: 1px solid hsl(0, 0%, 85%);
+	text-align: center;
+}
+/*pour l'espace au niveau des titres des carrés*/
+
+.tile-block:hover {
+	box-shadow: -1px -1px 2px 1px hsla(0, 0%, 50%, 0.7);
+}
+/*pour créer de l'ombre quand on passe sa souris dessus*/
+a {
+	color: hsl(0, 0%, 10%);
+	text-decoration: none;
+	border-bottom: 1px dashed black;
+}
+/*écriture titres des carrés*/
+
+img{
+	margin: 0;
+	padding: 0;
+}
