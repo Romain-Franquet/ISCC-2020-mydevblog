@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>		<html lang="fr">
     <head>
         <meta charset="utf-8"/>
@@ -7,26 +6,26 @@
         <title>MyDevBlog</title>
     </head>
      <?php 
-     include ('header.php');
+     include ('header_2.php');
      ?>
 <?php
 
 function site(){
     if (isset($_GET['page']))
     if ($_GET ['page'] == 1){
-        echo include ('Page_accueil.php');
+        echo include ('ajout_article.php');
 
 
     }
     if (isset($_GET['page']))
     if ($_GET ['page'] == 2){
-        echo include ('Articles.php');
+        echo include ('ajout_utilisateur.php');
 
 
     }
     if (isset($_GET['page']))
     if ($_GET ['page'] == 3){
-        echo include ('Contact.php');
+        echo include ('utilisateurs.php');
 
     }
 }
