@@ -4,12 +4,12 @@
         <link rel="stylesheet" href="visuel.css" />
        
         
-    <p> Voici tous les articles postés.</p  >
+    <p> Voici la page d'accueil de mon devblog, vous trouverez ici divers article relatant de L'ISCC en général et de ces quatres dernières semaines. La page d'accueil présente les cinqs derniers articles publiés.</p  >
     <article class="tiled">		
         <div class="tile-block ">
             <h2>
                 
-                <a>L'informatique, un plus sur le CV ?	</a>
+                <a>L'HTML la base du codage</a>
             </h2>
             <p class="encart info">
                 Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
@@ -82,32 +82,6 @@
         </a>
     </p>
 </div>  
-<div class="tile-block ">
-    <h2>
-        <a>
-            	Faire du codage à distance	</a>
-    </h2>
-    <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
-        
-           
-        </a>
-    </p>
-</div>  
-<div class="tile-block ">
-    <h2>
-        <a>
-            	Faire du codage à distance	</a>
-    </h2>
-    <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
-        
-           
-        </a>
-    </p>
-</div>  
-        
-      
 </article>			
 
         </html>

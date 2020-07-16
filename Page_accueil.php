@@ -3,31 +3,33 @@
         <link rel="stylesheet" href="visuel.css" />
        
         
-    <p> Voici tous les articles postés.</p  >
+    <p> Voici la page d'accueil de mon devblog, vous trouverez ici divers article relatant de L'ISCC en général et de ces quatres dernières semaines. La page d'accueil présente les cinqs derniers articles publiés.</p  >
     <article class="tiled">		
         <div class="tile-block ">
             <h2>
                 
-                <a>L'informatique, un plus sur le CV ?	</a>
+                <a
+                href=HTML.php> 
+                La base du codage avec L'HTML	</a>
+                
             </h2>
             <p class="encart info">
-                Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
-                
+                Découvrir Les bases du codage avec le langage HTML.			<br/>
+            
                    
                 </a>
             </p>
         </div>
         
     
-
-
         <div class="tile-block ">
             <h2>
-                <a>
-                    ISEG Lille bat les records 		</a>
+            <a
+                href=CSS.php> 
+                Le visuel d'un site internet avec le CSS	</a>
             </h2>
             <p class="encart info">
-                Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
+                Découvrir les éléments visuel d'un site avec le CSS.			<br/>
                 
                    
                 </a>
@@ -35,11 +37,12 @@
         </div>
         <div class="tile-block ">
     <h2>
-       
-         <a>Epitech la 1ère école d'informatique de France			</a>
+    <a
+                href=PHP.php> 
+                La création d'un site dynamique avec PHP	</a>
     </h2>
     <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
+        Découvrir les sites dynamiques avec le langage PHP.			<br/>
         
            
         </a>
@@ -47,11 +50,12 @@
 </div>
 <div class="tile-block ">
     <h2>
-        <a>
-            	Travailler pendant le mois de Juillet ?		</a>
+    <a
+                href=Mysql.php> 
+                La base de donnée avec Mysql</a>
     </h2>
     <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
+        Découvrir la gestion des bases de données avec le langage Myqsl.			<br/>
         
            
         </a>
@@ -59,53 +63,13 @@
 </div>
 <div class="tile-block ">
     <h2>
-        <a>
-            	Faire du codage à distance	</a>
+    <a
+                href=stage.php> 
+                L'organisation de L'ISCC 2020	</a>
     </h2>
     <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
-        
-           
-        </a>
-    </p>
-</div>  
-<div class="tile-block ">
-    <h2>
-        <a>
-            	Faire du codage à distance	</a>
-    </h2>
-    <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
-        
-           
-        </a>
-    </p>
-</div>  
-<div class="tile-block ">
-    <h2>
-        <a>
-            	Faire du codage à distance	</a>
-    </h2>
-    <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
-        
-           
-        </a>
-    </p>
-</div>  
-<div class="tile-block ">
-    <h2>
-        <a>
-            	Faire du codage à distance	</a>
-    </h2>
-    <p class="encart info">
-        Insérer bcp de texte ici pxq j'ai pas encore d'idée d'article 			<br/>
-        
-           
-        </a>
-    </p>
-</div>  
-        
+        Découvrir l'oganisation de L'ISCC et ce que l'on a pu faire et apprendre.		<br/>
+            
       
 </article>			
 

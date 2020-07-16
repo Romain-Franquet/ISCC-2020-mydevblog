@@ -22,11 +22,11 @@
             $ret = false;
             $img_blob = '';
             $taille_max = 250000;
-            $ret = is_uploaded_file($_FILES['image']['tmp_name']);
+            
 
 
             if (!$ret) {
-                echo "Problème de transfert";
+                
                 return false;
                 
             }else{
