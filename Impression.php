@@ -10,17 +10,17 @@
      ?>
 <html>
 <body>
-<h1 align="center">La base du codage avec L'HTML</h1>
+<h1 align="center">Mes impressions sur L'ISCC</h1>
 
 <p class="flotte">
- <img src="téléchargement.png"  />
+ <img src="téléchargementimp.jpg"  />
 </p>
 <h2 align="right">Créer par Romain Franquet le 17/07/2020</h2>
 <p>
-L'HTML est un langage informatique utilisé sur l'internet. 
-Ce langage est utilisé pour créer des pages web. 
-L'acronyme signifie HyperText Markup Language, ce qui signifie en français "langage de balisage d'hypertexte". 
-Cette signification porte bien son nom puisqu'effectivement ce langage permet de réaliser de l'hypertexte à base d'une structure de balisage.
+Effectuer un stage à distance est une première pour moi. 
+C'est un peu compliqué car on ne voit personne mais les intervenants ont toujours été réactifs lorsque nous avions des questions.
+Ce stage était très interessant est nous a permis de nous initier à un langage totalement inconnu.
+C'était une vraie opportunité car cela permet d'appronfondir nos compétences et de rajouter des données sur notre CV.
 </p>
 </body>
 </html>
